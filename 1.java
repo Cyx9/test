@@ -20,4 +20,8 @@ public class CommonConst {
      */
     public static final int DEFAULT_SUCCESS_CODE = 200;
 
+    public static final String PASSWORD = "qwe123!@#";
+
+    public static final String AccessKey  = "LTAIxxxxxxx";
+
 }
